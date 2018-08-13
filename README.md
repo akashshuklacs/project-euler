@@ -1,2 +1,2 @@
 # project-euler
-Solutions to Project Euler Problems
+Solutions to Project Euler Problems from hackerrank
